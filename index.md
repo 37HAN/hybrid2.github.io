@@ -1,8 +1,8 @@
 ---
-title: Home
+title: Hybrid
 ---
 
-# Your Lab Slogan
+# Just Code It
 
 [Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
 Spend less time reinventing the wheel, and more time running your lab.
@@ -12,7 +12,7 @@ Spend less time reinventing the wheel, and more time running your lab.
   type="github"
   icon=""
   text="See the template on GitHub"
-  link="greenelab/lab-website-template"
+  link="https://github.com/37HAN/websea.github.io.git"
   style="button"
 %}
 {%
@@ -20,7 +20,7 @@ Spend less time reinventing the wheel, and more time running your lab.
   type="docs"
   icon=""
   text="See the documentation"
-  link="https://github.com/greenelab/lab-website-template/wiki"
+  link="https://github.com/37HAN/websea.github.io.git"
   style="button"
 %}
 {:.center}
